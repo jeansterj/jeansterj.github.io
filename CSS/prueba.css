@@ -20,3 +20,20 @@ h1{
      
      
   }
+  .bannerSuperior img{
+    margin-top: -9px;
+    margin-left: -8px;
+    margin-right: -9px;
+    margin-bottom: -9px;
+
+}
+.enlaceBanner button{
+
+
+    background-color: #333333;
+    color: white;
+    border: none;
+    margin-left: 5px;
+    padding-right: 5px;
+   
+}
